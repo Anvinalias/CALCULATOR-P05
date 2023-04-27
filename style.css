@@ -11,3 +11,20 @@ body{
     height: 100vh;
 }
 
+.btns{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: auto;
+}
+
+.calculator{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    height: 600px;
+    width: 400px;
+    border-radius: 15px;
+    background-color: rgb(211, 205, 205);
+}
+
