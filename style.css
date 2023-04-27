@@ -28,3 +28,31 @@ body{
     background-color: rgb(211, 205, 205);
 }
 
+.screen{
+    height: 100px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(239, 239, 239);
+}
+
+.content{
+    margin: 20px;
+    font-size: 40px;
+    text-align: end;
+}
+
+button{
+    height: 80px;
+    width: 80px;
+    font-size: 30px;
+    border: 2px solid black;
+}
+
+button.clear{
+    width: 114px;
+}
+
+button.delete{
+    width: 130px;
+}
